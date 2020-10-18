@@ -1,6 +1,6 @@
 # AttentionalGAN for fashion
 
-Adapt the original method from paper AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks by Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He.
+Adapt the original method from paper AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks by Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He, to fashion product generation.
 
 Original code from:
 
